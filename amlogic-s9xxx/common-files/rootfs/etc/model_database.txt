@@ -15,7 +15,7 @@
 112:M302A/M304A:s905l3b:meson-gxl-s905l3b-m302a.dtb:u-boot-s905x-s912.bin:NA:NA:4C@1908Mhz,2+8G,100Mb Nic:meson-g12a:s905l3a:no
 113:MGV2000:s905l2:meson-gxl-s905l2-x7-5g.dtb:u-boot-s905x-s912.bin:NA:NA:4C@1908Mhz,2+8G,100Mb Nic:meson-g12a:s905l2:no
 114:Wojia-TV-IPBS9505:s905l2:meson-gxl-s905l2-ipbs9505.dtb:u-boot-s905x-s912.bin:NA:NA:4C@1908Mhz,2+8G,100Mb Nic:meson-g12a:s905l2:no
-113:CM311-1 YS(M):s905l2:meson-gxl-s905l2-x7-5g.dtb:u-boot-s905x-s912.bin:NA:NA:4C@1908Mhz,2+16G,100Mb Nic:meson-g12a:s905l2:yes
+115:CM311-1 YS(M):s905l3:meson-gxl-s905l2-x7-5g.dtb:u-boot-e900v22c.bin:NA:NA:4C@1908Mhz,2+16G,Bluetooth rtl8761b,100Mb Nic:meson-g12a:s905l3:yes
 
 # Amlogic GXM Family
 201:Octopus Planet:s912:meson-gxm-octopus-planet.dtb:u-boot-zyxq.bin:NA:NA:4C@1512Mhz+4C@1000Mhz,2GB Mem,1Gb Nic:meson-gxm:s912:yes
