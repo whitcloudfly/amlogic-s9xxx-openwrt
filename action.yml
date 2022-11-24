@@ -13,7 +13,7 @@ inputs:
   openwrt_board:
     description: "Choose Amlogic board."
     required: false
-    default: "s905d_s905x3"
+    default: "s905l2"
   openwrt_kernel:
     description: "Choose kernel version."
     required: false
