@@ -1,5 +1,6 @@
 name: "Use wjunhx514 script to package Armvirt as OpenWrt"
 author: "wjunhx514"
+token: ${{ secrets.PULL_REQUEST_STATS_TOKEN }}
 description: "Package Armvirt as OpenWrt. Support Amlogic s9xxx tv box."
 inputs:
   mode:
