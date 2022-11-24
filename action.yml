@@ -1,5 +1,5 @@
 name: "Use ophub script to package Armvirt as OpenWrt"
-author: "ophub"
+author: "wjunhx514"
 description: "Package Armvirt as OpenWrt. Support Amlogic s9xxx tv box."
 inputs:
   mode:
