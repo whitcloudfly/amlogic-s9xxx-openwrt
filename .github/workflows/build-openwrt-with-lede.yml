@@ -67,7 +67,8 @@ env:
   DIY_P1_SH: router-config/lede-master/diy-part1.sh
   DIY_P2_SH: router-config/lede-master/diy-part2.sh
   TZ: America/New_York
-
+  token: ${{ secrets.PULL_REQUEST_STATS_TOKEN }}
+  
 jobs:
   build:
     runs-on: ubuntu-22.04
